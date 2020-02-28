@@ -1,0 +1,29 @@
+{
+  "name": "Backers",
+  "version": "1.0.0",
+  "description": "Backers token and STO contracts",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/abhi_21094/Backers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/abhi_21094/Backers/issues"
+  },
+  "homepage": "https://gitlab.com/abhi_21094/Backers#README",
+  "devDependencies": {
+    "solidity-coverage": "^0.5.11"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^1.12.0",
+    "web3-utils": "^1.2.1"
+  }
+}
